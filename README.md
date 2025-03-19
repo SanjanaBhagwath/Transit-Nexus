@@ -2,6 +2,8 @@
 
 This project is a **Spring Boot-based Ticket Management System** designed for public transportation. It allows administrators to manage routes, stations, passengers, and fares efficiently. Passengers can log in using RFID cards, check their balance, recharge their accounts, and view their ticket history. The system also provides features for generating reports, such as tickets by route or date, and recharge history.
 
+![First Look](images/HomePage.png "Home Page")
+
 ---
 
 ## Features

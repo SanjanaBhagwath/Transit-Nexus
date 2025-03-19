@@ -152,7 +152,7 @@ CREATE TABLE Recharge (
 ![Admin Dashboard](images/AdminDashboard.png "Admin Dashboard")
 
 ### 2. Passenger Dashboard
-![Passenger Dashboard](images/PassengerDashboard.png "Passenger Dashboard")
+![Passenger Dashboard](images/PassengerLogin.png "Passenger Dashboard")
 
 ### 3. Reports
 ![Reports](images/ReportOptions.png "Reports")

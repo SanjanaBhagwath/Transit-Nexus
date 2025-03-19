@@ -144,3 +144,16 @@ CREATE TABLE Recharge (
 );
 ```
 
+---
+
+## Screenshots
+
+### 1. Admin Dashboard
+![Admin Dashboard](images/AdminDashboard.png "Admin Dashboard")
+
+### 2. Passenger Dashboard
+![Passenger Dashboard](images/PassengerDashboard.png "Passenger Dashboard")
+
+### 3. Reports
+![Reports](images/ReportOptions.png "Reports")
+

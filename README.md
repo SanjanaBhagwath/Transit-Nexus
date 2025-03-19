@@ -44,8 +44,8 @@ This project is a **Spring Boot-based Ticket Management System** designed for pu
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Spring-Boot-Ticket-Management.git
-cd Spring-Boot-Ticket-Management
+git clone https://github.com/SanjanaBhagwath/Transit-Nexus.git
+cd Transit-Nexus
 ```
 
 ### 2. Configure the Database

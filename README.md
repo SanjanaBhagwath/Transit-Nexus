@@ -62,7 +62,7 @@ Build the project using Maven
 mvn clean install
 ```
 
-### 3. Run the application
+### 4. Run the application
 Open your browser and navigate to:
 ```
 http://localhost:8080
